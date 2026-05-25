@@ -1,0 +1,6 @@
+{
+  "name": "EchoPlayer Sync",
+  "description": "ExoPlayer based streaming synchronization application across Mobile and Android TV. Broadcast HLS (M3U8), DASH (MPD), MP4, MKV and TS formats locally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
